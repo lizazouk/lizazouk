@@ -6,7 +6,7 @@ Future étudiante en cybersécurité (BTS CIEL Informatique et Réseaux - sept. 
 
 Je vois l'informatique comme un immense terrain de jeu composé de puzzles interconnectés : "Où est Charlie ?" en OSINT, casse-tête en réseau, ou encore "Dr Maboul" en électronique.
 
-**D'ailleurs, je recherche une alternance** passionnante dans le domaine de la cyber/réseaux sur Toulouse. N'hésitez pas à me contacter via mon [LinkedIn](linkedin.com/in/lisa-beynard).
+**D'ailleurs, je recherche une alternance** passionnante dans le domaine de la cyber/réseaux sur Toulouse. N'hésitez pas à me contacter via mon [LinkedIn](https://www.linkedin.com/in/lisa-beynard/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc41JIT1HQNeS%2Fof%2FYDQ6Zw%3D%3D).
 
 ---
 
