@@ -2,7 +2,7 @@
 
 Moi c'est Lisa, une nana curieuse, polyvalente et qui adore les challenges.
 
-Future étudiante en cybersécurité (BTS CIEL Informatique et Réseaux - sept. 2026), j'utilise GitHub comme mon journal d'apprentissage. Il est un peu vide pour le moment, mais il faut bien commencer quelque part :) — C'est en septembre 2025, en parallèle de mon emploi à temps plein, que j'ai commencé à apprendre la cybersécurité en autodidacte.
+Future alternante en cybersécurité (BTS CIEL Informatique et Réseaux - sept. 2026), j'utilise GitHub comme mon journal d'apprentissage. Il est un peu vide pour le moment, mais il faut bien commencer quelque part :) — C'est en septembre 2025, en parallèle de mon emploi à temps plein, que j'ai commencé à apprendre la cybersécurité en autodidacte.
 
 Je vois l'informatique comme un immense terrain de jeu composé de puzzles interconnectés : "Où est Charlie ?" en OSINT, casse-tête en réseau, ou encore "Dr Maboul" en électronique.
 
