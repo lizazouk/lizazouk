@@ -2,7 +2,7 @@
 
 Moi c'est Lisa, une nana curieuse, polyvalente et qui adore les challenges.
 
-Future alternante en cybersécurité (BTS CIEL Informatique et Réseaux - sept. 2026), j'utilise GitHub comme **mon journal d'apprentissage**. Il est un peu vide pour le moment, mais il faut bien commencer quelque part :) — C'est en septembre 2025, en parallèle de mon emploi à temps plein, que j'ai commencé à apprendre la cybersécurité en autodidacte.
+Future alternante en cybersécurité (BTS CIEL Informatique et Réseaux - sept. 2026), j'utilise GitHub comme **mon journal d'apprentissage**. Il est un peu vide pour le moment, mais il faut bien commencer quelque part :) — J'ai commencé à étudier la cybersécurité en septembre 2025, en parallèle de mon emploi à temps plein.
 
 Je vois l'informatique comme **un immense terrain de jeu composé de puzzles interconnectés** : "Où est Charlie ?" en OSINT, casse-tête en réseau, ou encore "Dr Maboul" en électronique.
 
@@ -10,7 +10,7 @@ Je vois l'informatique comme **un immense terrain de jeu composé de puzzles int
 
 ---
 
-🚩 **CTF ANSSI - France Cybersecurity Challenge** aura lieu le 3 avril 2026. Franchement, est-ce que j'ai assez d'audace pour y participer bien que je sois encore une technicienne en herbe ? Je n'ai aucune idée de ce qui m'y attend, hehe
+🚩 **CTF ANSSI - France Cybersecurity Challenge** aura lieu le 3 avril 2026. Franchement, est-ce que j'ai assez d'audace pour y participer bien que je sois encore qu'une technicienne en herbe ? Je n'ai aucune idée de ce qui m'y attend, hehe
 
 Si vous avez des tips à donner aux débutants, je suis preneuse !
 
