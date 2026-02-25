@@ -10,7 +10,7 @@ Je vois l'informatique comme **un immense terrain de jeu composé de puzzles int
 
 ---
 
-🚩 **CTF ANSSI - France Cybersecurity Challenge** aura lieu le 3 avril 2026. Franchement, est-ce que j'ai assez d'audace pour y participer bien que je sois encore qu'une technicienne en herbe ? Je n'ai aucune idée de ce qui m'y attend, hehe
+🚩 **CTF THC** (Toulouse Hacking Convention) : 7 Mai 2026  -  on m'a proposé d'y participer ! Même si je ne suis qu'une technicienne en herbe, c'est un beau challenge. Je paticipe :)
 
 Si vous avez des tips à donner aux débutants, je suis preneuse !
 
