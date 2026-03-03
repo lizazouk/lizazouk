@@ -4,7 +4,7 @@ Moi c'est Lisa, une demoiselle curieuse, polyvalente et qui aime les challenges.
 
 En recherche d'une alternance en cybersécurité pour le BTS CIEL Informatique et Réseaux (sept. 2026) sur TOULOUSE, j'utilise GitHub comme **mon journal d'apprentissage**. 
 
-Il est un peu vide pour le moment, mais il faut bien commencer quelque part — Je suis autodidacte depuis septembre 2025 (en parallèle de mon emploi à temps plein)
+Il est un peu vide pour le moment, mais il faut bien commencer quelque part — Je suis autodidacte depuis septembre 2025.
 
 Je vois l'informatique comme un immense terrain de jeu composé d'énigmes.
 
