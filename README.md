@@ -1,12 +1,14 @@
 #### Salut, et bienvenue ! 👋
 
-Moi c'est Lisa, une nana curieuse, polyvalente et qui adore les challenges.
+Moi c'est Lisa, une demoiselle curieuse, polyvalente et qui aime les challenges.
 
-Future alternante en cybersécurité (BTS CIEL Informatique et Réseaux - sept. 2026), j'utilise GitHub comme **mon journal d'apprentissage**. Il est un peu vide pour le moment, mais il faut bien commencer quelque part :) — J'ai commencé à étudier la cybersécurité en septembre 2025, en parallèle de mon emploi à temps plein.
+En recherche d'une alternance en cybersécurité pour le BTS CIEL Informatique et Réseaux (sept. 2026) sur TOULOUSE, j'utilise GitHub comme **mon journal d'apprentissage**. 
 
-Je vois l'informatique comme **un immense terrain de jeu composé de puzzles interconnectés** : "Où est Charlie ?" en OSINT, casse-tête en réseau, ou encore "Dr Maboul" en électronique.
+Il est un peu vide pour le moment, mais il faut bien commencer quelque part — Je suis autodidacte depuis septembre 2025 (en parallèle de mon emploi à temps plein)
 
-**D'ailleurs, je recherche une alternance** dans le domaine de la cyber/réseaux sur Toulouse. N'hésitez pas à me contacter via mon [LinkedIn](https://www.linkedin.com/in/lisa-beynard/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc41JIT1HQNeS%2Fof%2FYDQ6Zw%3D%3D).
+Je vois l'informatique comme un immense terrain de jeu composé d'énigmes.
+
+Mon [LinkedIn](https://www.linkedin.com/in/lisa-beynard/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc41JIT1HQNeS%2Fof%2FYDQ6Zw%3D%3D).
 
 ---
 
