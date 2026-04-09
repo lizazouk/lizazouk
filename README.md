@@ -12,7 +12,7 @@ Mon [LinkedIn](https://www.linkedin.com/in/lisa-beynard/?lipi=urn%3Ali%3Apage%3A
 
 ---
 
-🚩 **CTF THC** (Toulouse Hacking Convention) : 7 Mai 2026  -  on m'a proposé d'y participer ! Même si je ne suis qu'une technicienne en herbe, c'est un beau challenge. Je paticipe
+🚩 **CTF THC** (Toulouse Hacking Convention) : 7 Mai 2026  -  Même si je ne suis qu'une technicienne en herbe, c'est un beau challenge.
 
 
 <!--
