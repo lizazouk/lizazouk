@@ -6,8 +6,6 @@ En recherche d'une alternance en cybersécurité pour le BTS SIO systèmes et r�
 
 Il est un peu vide pour le moment, mais il faut bien commencer quelque part ! :)
 
-Je vois l'informatique comme un immense terrain de jeu composé d'énigmes.
-
 Mon [LinkedIn](https://www.linkedin.com/in/lisa-beynard/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc41JIT1HQNeS%2Fof%2FYDQ6Zw%3D%3D).
 
 ---
